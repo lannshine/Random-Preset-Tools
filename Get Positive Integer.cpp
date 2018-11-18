@@ -1,3 +1,6 @@
+#include <iostream>
+#include <limits>
+
 int getPositiveIntNumber();
 
 int getPositiveIntNumber()
