@@ -1,23 +1,4 @@
-/*
-  A way to let user input a positive integer
- */
-
-#include <iostream>
-#include <limits>
-using namespace std;
-
 int getPositiveIntNumber();
-
-int main()
-{
-	int a;
-
-	cout << "Enter a: ";
-  a = getPositiveIntNumber();
-  cout << "a: " << a << endl;
-
-	return 0;
-}
 
 int getPositiveIntNumber()
 {
