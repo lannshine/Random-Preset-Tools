@@ -1,3 +1,5 @@
+int getIntNumber();
+
 int getIntNumber()
 {
 	float value;
